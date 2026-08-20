@@ -2,7 +2,7 @@
   "name": "Light saber",
   "author": "oreyre9000",
   "description": "",
-  "file": "item_lightsaber__1_",
+  "file": "item_lightsaber",
   "type": "item",
   "scale": 46.083,
   "left":  { "bone": "item_lightsaber", "position": [-0.103, 0.276, -0.089], "rotation": [20.3959, 271.082, 228.04] },
