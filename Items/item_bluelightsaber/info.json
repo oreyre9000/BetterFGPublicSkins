@@ -1,0 +1,10 @@
+﻿{
+  "name": "Blue lightsaber",
+  "author": "oreyre9000",
+  "description": "",
+  "file": "item_bluelightsaber",
+  "type": "item",
+  "scale": 46.083,
+  "left":  { "bone": "item_bluelightsaber", "position": [-0.103, 0.276, -0.089], "rotation": [20.3959, 271.082, 228.04] },
+  "right": { "bone": "item_redlightsaber", "position": [0.136964, -0.238925, 0.0851753], "rotation": [340.828, 94.0398, 326.184] }
+}
