@@ -1,20 +1,26 @@
 [
-{ "path": "Costumes/costume_bbralien", "name": "Big Bang Racing alien",
-  "type": "costume",
+{ "path": "Costumes/costume_bbralien", "name": "Big Bang Racing Alien",
   "author": "oreyre9000",
-  "file": "skin_bbralien",
+  "description": "whoeeeuuwww! ",
+  "file": "costume_bbralien",
+  "type": "costume",
+  "group": "Videogame characters",
+  "keepBase": false,
+  "skinScale": 0.86,
   "boneOffsets": [
-    {
-      "bone": "Shoulder_L_jnt",
-      "localPosition": { "x": -0.00314, "y": -0.00048, "z": 0.00079 }
-    },
-    {
-      "bone": "Shoulder_R_jnt1",
-      "localPosition": { "x": 0.00334, "y": -0.00045, "z": 0.00079 }
-    }
-  ]
-,
-  "group": "Videogame characters" },
+    { "bone": "Shoulder_L_jnt", "x": -0.199682, "y": 0.16163, "z": 0.0786068 },
+    { "bone": "Elbow_L_jnt", "x": -9.23872E-09, "y": 0.345722, "z": -5.50597E-08 },
+    { "bone": "Wrist_L_jnt", "x": 2.38419E-09, "y": 0.273225, "z": -9.08597E-08 },
+    { "bone": "Finger01_L_jnt_01", "x": -0.0804227, "y": 0.267616, "z": 0.0275198 },
+    { "bone": "Finger02_L_jnt_01", "x": 0.0978581, "y": 0.241137, "z": 0.00626296 },
+    { "bone": "Thumb_L_jnt_01", "x": -0.160848, "y": 0.151036, "z": -0.0249036 },
+    { "bone": "Shoulder_R_jnt1", "x": 0.217318, "y": 0.161633, "z": 0.0786069 },
+    { "bone": "Elbow_R_jnt1", "x": -1.37463E-07, "y": -0.345722, "z": -1.75542E-07 },
+    { "bone": "Wrist_R_jnt1", "x": -1.14441E-07, "y": -0.273224, "z": 5.60075E-06 },
+    { "bone": "Finger01_R_jnt_03", "x": 0.0804241, "y": -0.267612, "z": -0.0275206 },
+    { "bone": "Finger02_R_jnt_03", "x": -0.0978575, "y": -0.241137, "z": -0.00626911 },
+    { "bone": "Thumb_R_jnt_03", "x": 0.160848, "y": -0.151036, "z": 0.0249019 }
+  ] },
 { "path": "Costumes/costume_bingbong", "name": "Bing Bongs",
   "type": "costume",
   "author": "oreyre9000",
