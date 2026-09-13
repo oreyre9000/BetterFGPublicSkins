@@ -536,6 +536,12 @@
     { "bone": "Torso_C_jnt", "x": 0, "y": 5.96046E-10, "z": -7.19219E-11 },
     { "bone": "Torso_C_jnt_end", "x": 0, "y": 0.00216304, "z": 0 }
   ] },
+{ "path": "Costumes/costume_verity", "name": "Verity",
+  "author": "oreyre9000",
+  "description": "verity phonk - Natixx on Sketchfab",
+  "file": "costume_verity",
+  "type": "costume",
+  "keepBase": false },
 { "path": "Accessories/accessory_arbyschain", "name": "Arby's chain",
   "author": "oreyre9000",
   "description": "",
