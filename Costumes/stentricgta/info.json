@@ -1,0 +1,12 @@
+﻿{
+  "name": "Stentric (Black)",
+  "author": "oreyre9000",
+  "description": "",
+  "file": "stentricgta",
+  "type": "costume",
+  "group": "Content creators",
+  "keepBase": false,
+  "boneOffsets": [
+    { "bone": "Torso_C_jnt", "x": 0, "y": -1.19209E-09, "z": -5.96046E-10 }
+  ]
+}
